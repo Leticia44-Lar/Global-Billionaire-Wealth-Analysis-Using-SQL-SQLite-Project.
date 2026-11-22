@@ -43,7 +43,7 @@ The project demonstrates the practical application of the following SQL concepts
 ## Key Areas of Analysis
 
 ### 1. Wealth Distribution
-
+![](Wealth distribution.png)
 Examined the net worth of the top 20 richest individuals and calculated the combined wealth of billionaires across different countries.
 
 ### 2. Age Distribution
